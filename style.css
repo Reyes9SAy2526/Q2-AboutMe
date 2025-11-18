@@ -1,0 +1,60 @@
+body {
+  font-family: 'Times New Roman', Times, serif;
+  background-color: lightslategray;
+  /* margin: 40px; */
+}
+
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: bold;
+  color: white;
+}
+
+p{
+  color: white;
+}
+
+.subtitle {
+  margin-top: -10px;
+  font-style: italic;
+}
+
+h2 {
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+ol, ul {
+  margin-left: 25px;
+}
+
+.links li {
+  list-style-type: none;
+}
+
+.links a {
+  color: blue;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+img{
+  width: 150px;
+}
+
+.hero-image{
+  background-image:url(https://chat.google.com/u/0/api/get_attachment_url?url_type=FIFE_URL&content_type=image%2Fjpeg&attachment_token=AOo0EEWN84z8Hq0tx8rmeL7ER7AOcFugnGi2OBWngelDokGKwL68%2BcWt8RYXutfjnO7vD5l9wKtyhqhUkQMrGh45yzL%2BO%2BmsM8EZN8UPGXajgWE51s9fp%2B%2BBCZ4s3o3AjH8xXyPJCCoRPbJopZcFr%2Bh%2FbZqx59gKNPgHuuY%2FJRlbOb4m8p7VjFFvGqJNGih%2BFIE5Q5ypO2R%2FJTcqqLBIDJWNlo6xjmLtKYh0YpIc6wrr6iiS%2FBEyWIIs22zW445S3JLixRLNXkoigh39dmbUBYAA2%2BWDdWmzXayw0YEnIztJ9saC4%2FLr%2Fnucp%2BYKlpwOb4LQOVO8yZjvD79NVaRAdz6%2Fs5mtiW6lybfcRtqTA1c3G1Y6rrEnvIgt7CvBjQmCvjg6GRaYlrhFCRWuUqepJNAP6cUNAkXGAJJWhcdoJt6lCCdYJ7Zpv5Jsj8gb7T0oM1KIpyvRjgZ2KjrjXePTBO127HWYU%2Bs6fwhNzlCL9XbwjmuR53v%2BdvMtK84VPNaVM8ON2sbHzS48ob2ZJeNcNxwB0JCjl0BDdlrBkoMTuvIx5%2FGbvL%2BY0EFNl%2FeB0bHl3PBXsMrCIPcVunMkGY4mkriAsLWM2YpXK2ayRuvsnpf%2FSEBfrPKV15OKLqU%3D&allow_caching=true&sz=w1920-h868-rw)
+}
